@@ -47,4 +47,4 @@ Additionally, it is **scalable with AI-powered features** like predictive lead s
 
 ## 🙌 Author
 **Anuj Deore**  
-Computer Engineering | Aspiring Software Developer  
+Salesforce Enthusiast  
