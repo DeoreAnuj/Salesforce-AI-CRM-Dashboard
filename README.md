@@ -34,7 +34,17 @@ Additionally, it is **scalable with AI-powered features** like predictive lead s
 ---
 
 ## 📷 Sample Dashboard
-(Add screenshots of your dashboard here if available)
+<img width="1919" height="848" alt="Screenshot 2025-09-15 172235" src="https://github.com/user-attachments/assets/da45444d-304e-4301-bcc6-ba7a8dd591ee" />
+
+<img width="1898" height="819" alt="Screenshot 2025-09-15 172255" src="https://github.com/user-attachments/assets/25719f31-e021-4f0e-8478-b73030864779" />
+
+<img width="1898" height="819" alt="Screenshot 2025-09-15 172255" src="https://github.com/user-attachments/assets/ac346aea-e6fa-494a-bfad-568ad44cfb5b" />
+
+<img width="1538" height="684" alt="Screenshot 2025-09-15 123652" src="https://github.com/user-attachments/assets/9b68b918-da06-436c-80de-2a83216b7a3d" />
+
+
+
+
 
 ---
 
