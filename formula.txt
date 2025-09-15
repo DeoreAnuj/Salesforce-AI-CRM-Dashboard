@@ -1,0 +1,18 @@
+MIN(
+  100,
+  (Emails_Opened__c * 7) +
+  (Website_Visits__c * 4) +
+  IF(Company_Size__c > 100, 15, 5) +
+  IF(
+    OR(
+      CONTAINS(LOWER(Title), "manager"),
+      CONTAINS(LOWER(Title), "director"),
+      CONTAINS(LOWER(Title), "ceo"),
+      CONTAINS(LOWER(Title), "founder")
+    ),
+    10,
+    0
+  ) +
+  IF(ISPICKVAL(LeadSource, "Web"), 10, 0) +
+  IF(ISPICKVAL(LeadSource, "Referral"), 15, 0)
+)
